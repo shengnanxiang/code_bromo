@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bromo 产品需求说明书.md",
+                "file": "docs/Bromo 产品定义书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bromo 产品需求说明书"
+              "title": "Bromo 产品定义书"
             }
           }
         ]

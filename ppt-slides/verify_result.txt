@@ -1,0 +1,65 @@
+Total slides: 18
+============================================================
+Slide  1: imgs=1, texts=8 | Bromo
+Slide  2: imgs=0, texts=22 | Bromo
+Slide  3: imgs=0, texts=12 | Bromo 是什么
+Slide  4: imgs=0, texts=19 | 谁会买 Bromo
+Slide  5: imgs=0, texts=14 | 四大核心价值
+Slide  6: imgs=0, texts=26 | 与 AiKen 的对比——从品类入门到质感升级
+Slide  7: imgs=1, texts=7 | 04
+Slide  8: imgs=3, texts=10 | 外观形态——先在物理上成立，再谈数码
+Slide  9: imgs=1, texts=12 | 开关 + 过片拨杆——胶片机的心跳
+Slide 10: imgs=2, texts=14 | 快门——半按，是对画面的郑重其事
+Slide 11: imgs=0, texts=22 | 换卷弹钮 + 风格拨轮——一个零件，三种身份
+Slide 12: imgs=3, texts=14 | 数字胶卷——36 张的节制，揭晓的期待
+Slide 13: imgs=3, texts=15 | 弹出式氙气闪光灯——夜晚的开场仪式
+Slide 14: imgs=1, texts=14 | 旁轴取景——一只眼睛的专注
+Slide 15: imgs=0, texts=12 | 软件沿用说明——工程重心清晰
+Slide 16: imgs=0, texts=10 | ¥1299，买的是什么
+Slide 17: imgs=0, texts=17 | 附录 · 研发关键参数速查
+Slide 18: imgs=0, texts=13 | 请求立项评审通过
+============================================================
+--- Slide 3 full text ---
+  Bromo 是什么
+  「一台以经典胶片机的质感与节奏，让人重新认真拍照的复古数码相机。」
+  135 经典旁轴
+  金属机身，巴掌大小依旧便携
+  数字胶卷
+  36 张一卷，多卷连续，事后统一冲扫
+  弹出式氙气闪光灯
+  独立供电，弹起即蓄电
+  ¥1299
+  AiKen（¥699）的质感升级款
+  AiKen 定义了"便捷的复古数码"，Bromo 定义"有仪式感的复古数码"。
+  3
+--- Slide 6 (comparison table) full text ---
+  与 AiKen 的对比——从品类入门到质感升级
+  AiKen
+  Bromo
+  定位
+  便捷、品类入门
+  质感升级
+  价位
+  ¥699
+  ¥1299
+  形态
+  110 轻便随行
+  135 经典旁轴
+  影像
+  1/3 英寸，等效 35mm，泛焦
+  更大底、等效 35mm、AF
+  存储
+  内置存储，24 张 JPEG
+  支持 TF 卡的数字胶卷仓
+  连续拍摄
+  满卷后必须传输
+  多卷连续，统一显影
+  闪光灯
+  不支持
+  弹出式氙气闪光灯，电源独立
+  AiKen 已验证"复古数码"的真实需求；Bromo 以完整胶片仪式感承接升级需求，客单价 ¥699 → ¥1299（+86%），把品类从入门款抬升到质感款。
+  6
+--- Mojibake check ---
+  OK: No mojibake characters detected.
+--- Placeholder check ---
+  OK: No placeholders detected.

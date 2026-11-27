@@ -1,0 +1,30 @@
+Total slides: 18
+============================================================
+[修订1] P10 图注含"及声音反馈": PASS
+[修订2] P13 图注"弹出后蓄电及完成指示": PASS
+[修订2b] P13 第三图图注"独立 2×AA 供电": PASS
+[修订2c] P13 最下图片底边: 4.40in (应 < 4.9): PASS
+[修订3] P17 "设计参考/尺寸参考/布局参考"三列对仗: PASS
+[修订4] P11 高度标注: PASS
+============================================================
+Images embedded total: 15 (expect 15)
+Placeholders: none (PASS)
+============================================================
+Slide  1:  8 texts | Bromo
+Slide  2: 22 texts | Bromo
+Slide  3: 12 texts | Bromo 是什么
+Slide  4: 19 texts | 谁会买 Bromo
+Slide  5: 14 texts | 四大核心价值
+Slide  6: 26 texts | 与 AiKen 的对比——从品类入门到质感升级
+Slide  7:  7 texts | 04
+Slide  8: 10 texts | 外观形态——先在物理上成立，再谈数码
+Slide  9: 12 texts | 开关 + 过片拨杆——胶片机的心跳
+Slide 10: 14 texts | 快门——半按，是对画面的郑重其事
+Slide 11: 22 texts | 换卷弹钮 + 风格拨轮——一个零件，三种身份
+Slide 12: 14 texts | 数字胶卷——36 张的节制，揭晓的期待
+Slide 13: 15 texts | 弹出式氙气闪光灯——夜晚的开场仪式
+Slide 14: 14 texts | 旁轴取景——一只眼睛的专注
+Slide 15: 12 texts | 软件沿用说明——工程重心清晰
+Slide 16: 10 texts | ¥1299，买的是什么
+Slide 17: 17 texts | 附录 · 研发关键参数速查
+Slide 18: 13 texts | 请求立项评审通过
